@@ -1,8 +1,3 @@
-# automasi-outlinevpn
-Automasi Install outline VPN di Ubuntu server 
-
-Ubuntu 22.04 lts ++
-
 # Instalasi Outline VPN di Ubuntu Server
 
 Skrip ini digunakan untuk menginstal dan mengonfigurasi Outline VPN pada server Ubuntu dengan menggunakan Docker. Berikut adalah panduan untuk menjalankan skrip ini dan memulai instalasi.
