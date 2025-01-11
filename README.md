@@ -11,7 +11,7 @@ Skrip ini digunakan untuk menginstal dan mengonfigurasi Outline VPN pada server 
 1. **Unduh Skrip**
    Simpan skrip instalasi ke dalam file bernama `install-outline.sh`:
    ```bash
-   curl -o install-outline.sh https://github.com/rafacraft1/automasi-outlinevpn.git](https://github.com/rafacraft1/automasi-outlinevpn/blob/main/install_outlinevpn.sh
+   curl -o install-outline.sh https://github.com/rafacraft1/automasi-outlinevpn/blob/main/install_outlinevpn.sh
    ```
 
 2. **Beri Izin Eksekusi pada Skrip**
